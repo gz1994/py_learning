@@ -12,6 +12,6 @@ def hanoi(n, src, dst, mid): #n代表圆盘个数，src代表第一个塔，
         print("{}:{}->{}".format(n, src, dst))
         count += 1
         hanoi(n-1, mid, dst, src)
-hanoi(3, "A", "C","B")
+hanoi(3, "A", "C","B")#测试程序
 print(count)
 

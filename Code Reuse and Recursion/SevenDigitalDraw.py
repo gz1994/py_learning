@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*- 
 import turtle,time,pytz     #绘制七段数码管
 def drawGap():  #绘制数码管间隔
     turtle.penup()

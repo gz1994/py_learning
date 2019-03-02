@@ -54,4 +54,4 @@ def main():
     turtle.hideturtle()
     turtle.done()
 
-main()
+main()#测试主函数
